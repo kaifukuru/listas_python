@@ -21,4 +21,8 @@ print(c)
 
 x=range(0,1000)
 arreglo_automatizado = [n for n in x]
-print(arreglo_automatizado.sum)
+#print(arreglo_automatizado.array
+
+arreglo1= [1,2,3,4,5]
+for i in range (len (arreglo)):
+print(arreglo[i])
